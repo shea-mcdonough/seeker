@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/src/seeker/build/devel
+
+Name: seeker
+Description: Description of seeker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user/catkin_ws/src/seeker/build/devel/lib 
+Requires: geometry_msgs roscpp sensor_msgs std_msgs std_srvs nav_msgs

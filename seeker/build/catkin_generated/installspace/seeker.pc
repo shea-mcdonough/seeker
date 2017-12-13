@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: seeker
+Description: Description of seeker
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: geometry_msgs roscpp sensor_msgs std_msgs std_srvs nav_msgs
